@@ -1,1 +1,2 @@
-3D Computer Vision by Pascal Monasse
+# 3D Computer Vision
+by Pascal Monasse
