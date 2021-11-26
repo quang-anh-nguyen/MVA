@@ -1,2 +1,2 @@
 # Convex optimization
-* by Alexandre d'Aspremont*
+*by Alexandre d'Aspremont*
